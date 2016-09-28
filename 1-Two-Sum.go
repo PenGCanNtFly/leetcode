@@ -1,3 +1,6 @@
+/*
+* version := 1
+ */
 package main
 
 var (
